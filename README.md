@@ -11,6 +11,6 @@ Installation:
 How To Run:
 - npm run wdio
 
-Link Document Test Scenario/Test Step : 
+Link Document Test Scenario/Test Step : https://docs.google.com/spreadsheets/d/19cyr34bund6ES4KaVedyWUPeJ_0Op2KrWNVNYG1K-W0/edit?usp=sharing
 
 Link Video Record Hasil Eksekusi Script: https://drive.google.com/file/d/1JnWGMvmkgJ85R5AtosZBx4HfHGe06hjk/view?usp=sharing
